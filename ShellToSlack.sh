@@ -4,6 +4,8 @@
 # Tufora.com
 # https://github.com/tufora/ShellToSlack.sh.git
 # 
+# Feel free to use this script for your own projects
+#
 
 ServerName=$HOSTNAME
 
